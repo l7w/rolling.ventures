@@ -1,0 +1,2 @@
+(this["webpackJsonprolling.ventures"]=this["webpackJsonprolling.ventures"]||[]).push([[10],{38:function(s,t,e){s.exports=e.p+"static/media/about.55a970c1.md"}}]);
+//# sourceMappingURL=10.2e78c371.chunk.js.map

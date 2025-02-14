@@ -1,0 +1,1 @@
+{"version":3,"sources":["data/about.md"],"names":["module","exports"],"mappings":"+GAAAA,EAAOC,QAAU,IAA0B","file":"static/js/10.2e78c371.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/about.55a970c1.md\";"],"sourceRoot":""}
