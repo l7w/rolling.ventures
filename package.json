@@ -1,11 +1,11 @@
 {
   "name": "rolling.ventures",
   "version": "1.0.0",
-  "homepage": "https://rolling.ventures/",
+  "homepage": "https://rolling.ventures",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://rolling.ventures/"
+    "url": "https://github.com/l7w/rolling.ventures"
   },
   "engines": {
     "node": ">=16.x"
