@@ -25,7 +25,7 @@ const About = () => {
       <article className="post markdown" id="about">
         <header>
           <div className="title">
-            <h2>Welcome to Rolling Ventures</h2>
+            <h2>We Are Datagents</h2>
           </div>
         </header>
         <Markdown>

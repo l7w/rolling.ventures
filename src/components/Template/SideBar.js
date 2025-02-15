@@ -12,24 +12,24 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Rolling Ventures</h2>
+        <h2>Rolling Ventures, A Data Agency</h2>
         <p><a href="mailto:hello@rolling.ventures">hello@rolling.ventures</a></p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m cdx.</p>
+      <h2>WE ARE DATA</h2>
+    <p>Our team represents the industries top backend, reverse, and microservices engineers developing mobile, cloud and embedded targets.</p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/portfolio" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Chris Dickman <Link to="/">rolling.ventures</Link>.</p>
+      <p className="copyright">&copy; cdx <Link to="/">rolling.ventures</Link>.</p>
     </section>
   </section>
 );

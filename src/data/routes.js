@@ -9,7 +9,7 @@ const routes = [
     path: '/about',
   },
   {
-    label: 'Resume',
+    label: 'Portfolio',
     path: '/resume',
   },
   {
@@ -19,10 +19,6 @@ const routes = [
   {
     label: 'Contact',
     path: '/contact',
-  },
-  {
-    label: 'Links',
-    path: '/links',
   },
 ];
 
