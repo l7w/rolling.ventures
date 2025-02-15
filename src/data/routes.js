@@ -10,15 +10,15 @@ const routes = [
   },
   {
     label: 'Portfolio',
-    path: '/resume',
+    path: '/portfolio',
   },
   {
     label: 'Research',
     path: '/research',
   },
   {
-    label: 'Contact',
-    path: '/contact',
+    label: 'Hire Us',
+    path: '/hireus',
   },
 ];
 

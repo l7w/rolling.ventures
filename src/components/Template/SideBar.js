@@ -22,7 +22,7 @@ const SideBar = () => (
     <p>Our team represents the industries top backend, reverse, and microservices engineers developing mobile, cloud and embedded targets.</p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/portfolio" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/portfolio') ? <Link to="/portfolio" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
         </li>
       </ul>
     </section>

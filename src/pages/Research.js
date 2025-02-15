@@ -15,7 +15,7 @@ const Research = () => (
       <header>
         <div className="title">
           <h2><Link to="/research">Research</Link></h2>
-          <p>A selection of research projects</p>
+          <p>OpenSource, Use Cases, Platforms</p>
         </div>
       </header>
       {data.map((research) => (
