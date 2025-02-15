@@ -1,9 +1,8 @@
 ```
-           __             __             
- .--------|__.-----.-----|__.-----.-----.
- |        |  |__ --|__ --|  |  _  |     |
- |__|__|__|__|_____|_____|__|_____|__|__|
-                                         
+            _)             _)               
+  __ `__ \   |   __|   __|  |   _ \   __ \  
+  |   |   |  | \__ \ \__ \  |  (   |  |   | 
+ _|  _|  _| _| ____/ ____/ _| \___/  _|  _|                                             
 ```
 Throughout my career in software engineering, I have accumulated extensive experience in developing and managing robust software solutions, and cyber security services across various platforms. My work includes significant roles in enhancing product security at Nissan Motor Corporation, where I led initiatives centered on secure software development and risk management. Additionally, I have honed my skills in backend API's, utilizing technologies such as Kubernetes, Microservices, and various database driven applications. My commitment to continuous improvement is reflected in my certifications, including relevant industry-recognized credentials in cybersecurity. I have also undergone specialized training in DevSecOps practices, enabling me to integrate security seamlessly into most software development lifecycles [SaaS's up to Global Enterprise Pipelines]. With a strong foundation in both programming and operational practices, I am well-equipped to contribute to innovative software engineering projects that spark my interest.
 
