@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.182d0c15.css",
-    "main.js": "/static/js/main.29f095f0.js",
-    "static/js/818.c07fb8ec.chunk.js": "/static/js/818.c07fb8ec.chunk.js",
-    "static/js/996.d0be63c5.chunk.js": "/static/js/996.d0be63c5.chunk.js",
+    "main.js": "/static/js/main.801b6396.js",
+    "static/js/818.f34d61a9.chunk.js": "/static/js/818.f34d61a9.chunk.js",
+    "static/js/996.c49338df.chunk.js": "/static/js/996.c49338df.chunk.js",
     "static/js/900.fbd36828.chunk.js": "/static/js/900.fbd36828.chunk.js",
     "static/js/144.1e11f45b.chunk.js": "/static/js/144.1e11f45b.chunk.js",
     "static/js/607.864cef3b.chunk.js": "/static/js/607.864cef3b.chunk.js",
     "static/js/147.a9192f12.chunk.js": "/static/js/147.a9192f12.chunk.js",
-    "static/js/27.d36e9a68.chunk.js": "/static/js/27.d36e9a68.chunk.js",
+    "static/js/27.b72c5394.chunk.js": "/static/js/27.b72c5394.chunk.js",
     "static/js/574.dd175ac9.chunk.js": "/static/js/574.dd175ac9.chunk.js",
-    "static/media/about.md": "/static/media/about.6045b287b9bf110fae4c.md",
+    "static/media/about.md": "/static/media/about.74b27a304172e47870bc.md",
     "index.html": "/index.html",
     "main.182d0c15.css.map": "/static/css/main.182d0c15.css.map",
-    "main.29f095f0.js.map": "/static/js/main.29f095f0.js.map",
-    "818.c07fb8ec.chunk.js.map": "/static/js/818.c07fb8ec.chunk.js.map",
-    "996.d0be63c5.chunk.js.map": "/static/js/996.d0be63c5.chunk.js.map",
+    "main.801b6396.js.map": "/static/js/main.801b6396.js.map",
+    "818.f34d61a9.chunk.js.map": "/static/js/818.f34d61a9.chunk.js.map",
+    "996.c49338df.chunk.js.map": "/static/js/996.c49338df.chunk.js.map",
     "900.fbd36828.chunk.js.map": "/static/js/900.fbd36828.chunk.js.map",
     "144.1e11f45b.chunk.js.map": "/static/js/144.1e11f45b.chunk.js.map",
     "607.864cef3b.chunk.js.map": "/static/js/607.864cef3b.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.182d0c15.css",
-    "static/js/main.29f095f0.js"
+    "static/js/main.801b6396.js"
   ]
 }
