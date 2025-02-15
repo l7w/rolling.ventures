@@ -12,14 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Chris Dickman (cdx)</h2>
-        <p><a href="mailto:cdx@l7w.org">cdx@l7w.org</a></p>
+        <h2>Rolling Ventures</h2>
+        <p><a href="mailto:hello@rolling.ventures">hello@rolling.ventures</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Chris aka cdx. I am a [Reverse+Backend+CloudOps+DevOps] Engineer.</p>
+      <p>Hi, I&apos;m cdx.</p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
@@ -29,7 +29,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Chris Dickman<Link to="/">www.l7w.org</Link>.</p>
+      <p className="copyright">&copy; Chris Dickman <Link to="/">rolling.ventures</Link>.</p>
     </section>
   </section>
 );

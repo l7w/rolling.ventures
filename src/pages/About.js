@@ -20,12 +20,12 @@ const About = () => {
 
   return (
     <Main
-      description="Learn about Chris Dickman"
+      description="Learn about Rolling Ventures"
     >
       <article className="post markdown" id="about">
         <header>
           <div className="title">
-            <h2>Hello World!!!</h2>
+            <h2>Welcome to Rolling Ventures</h2>
           </div>
         </header>
         <Markdown>

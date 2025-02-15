@@ -11,7 +11,7 @@ const data = [
     icon: faContactCard,
   },
   {
-    link: 'mailto:cdx@l7w.org',
+    link: 'mailto:hello@rolling.ventures',
     label: 'Email',
     icon: faEnvelope,
   },
