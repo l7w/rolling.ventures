@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrolling_ventures=self.webpackChunkrolling_ventures||[]).push([[27],{2027:function(e,s,t){e.exports=t.p+"static/media/about.8fc4e88d9f4f7a0ca768.md"}}]);
