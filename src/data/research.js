@@ -1,25 +1,32 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Remote Door Unlock NISSAN & INFINITI',
-    subtitle: 'Disclosed Internally',
-    date: '2018',
-    link: 'PRIVATE',
+    title: 'Datagency',
+    subtitle: 'Data-w:th-Movement-an:d-Class',
+    date: '2025',
+    link: 'https://rolling.ventures/datagency',
     desc: [
-      'Vulnerabilities discovered by researchers in telematics control units (TCUs) from Continental, which are used by several major car manufacturers, can expose vehicles to local and remote hacker attacks.',
-      'Continental TCUs that use Intel’s Infineon S-Gold2 (PMB8876) 2G baseband chipset.',
-      'Rogue Cellular Base Station + PDU Payload + VIN + Checksum',
-      'Embedded ARM, Linux, PDU/SMS, 2G Cellular, 3GPP',
+      'Agnostic Containerized Infrastructure Compliance as Code',
     ],
   },
   {
-    title: 'iFarm, Mobile Analytics',
-    subtitle: 'Datanyze - Sales Intelligence',
-    date: '2016',
-    link: 'https://www.datanyze.com',
+    title: 'Offensive Vehicle Attack Framework',
+    subtitle: 'D2X',
+    date: '2/15/25',
+    link: 'https://rolling.ventures/ovaf',
     desc: [
-      'Developed a web application for an online voting system using the LAMP stack.',
-      'Developed a real-time vote-counter and voting trends insight dashboard using jQuery.',
+      'First of its kind offensive cyber security attack platform targeting road vehicles within proximity and some.',
+      'Exploits safety control systems to disengage targets, and penetrates onboard systems/APT.',
+    ],
+  },
+  {
+    title: '$X$',
+    subtitle: 'Convert, trade or sell any currency on any stack or platform.',
+    date: '2/15/25',
+    link: 'https://rolling.ventures/$X$',
+    desc: [
+      'Non-volitile proximity based assets.',
+      'any $ to any x.',
     ],
   },
 ];
