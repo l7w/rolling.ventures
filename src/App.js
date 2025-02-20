@@ -13,6 +13,7 @@ const Contact = lazy(() => import('./pages/Contact'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Research = lazy(() => import('./pages/Research'));
 const Portfolio = lazy(() => import('./pages/Portfolio'));
+const Hireus = lazy(() => import('./pages/Hireus'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -21,7 +22,7 @@ const App = () => (
         <Route path="/" element={<About />} />
         <Route path="/about" element={<About />} />
         <Route path="/research" element={<Research />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/hireus" element={<Hireus />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

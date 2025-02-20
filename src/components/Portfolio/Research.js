@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import research from '../../data/resume/research';
+import research from '../../data/portfolio/research';
 
 const Research = () => (
   <div className="research">

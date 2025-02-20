@@ -5,22 +5,22 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import Main from '../layouts/Main';
 
-import Education from '../components/Portfolio/Education';
+//import Education from '../components/Portfolio/Education';
 import Experience from '../components/Portfolio/Experience';
-import Skills from '../components/Portfolio/Skills';
-// import Research from '../components/Portfolio/Research';
+//import Skills from '../components/Portfolio/Skills';
+import Research from '../components/Portfolio/Research';
 
-import degrees from '../data/portfolio/degrees';
+//import degrees from '../data/portfolio/degrees';
 import work from '../data/portfolio/work';
-import { skills, categories } from '../data/portfolio/skills';
-// import research from '../data/resume/research';
+//import { skills, categories } from '../data/portfolio/skills';
+import research from '../data/portfolio/research';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
   Experience: () => <Experience data={work} />,
   //Skills: () => <Skills skills={skills} categories={categories} />,
   //Education: () => <Education data={degrees} />,
-  // Research: () => <Research data={research} />,
+  Research: () => <Research data={research} />,
 };
 
 const Portfolio = () => (

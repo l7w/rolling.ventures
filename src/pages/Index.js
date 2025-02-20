@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import ReactTerminal from 'react-terminal-component';
 
 import Main from '../layouts/Main';
 
@@ -18,7 +19,7 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/portfolio">portfolio</Link>, {' '}
         <Link to="/research">research</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        or <Link to="/hireus">hire</Link> us.
       </p>
     </article>
   </Main>
