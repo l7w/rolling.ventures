@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrolling_ventures=self.webpackChunkrolling_ventures||[]).push([[417],{4417:function(e,n,t){t.r(n);t(5043),t(8030);var l=t(7638),r=t(579);n.default=function(){return(0,r.jsx)(l.A,{title:"Hire Us",description:"Contact me via email hello@rolling.ventures"})}}}]);
+//# sourceMappingURL=417.e5427ee0.chunk.js.map
